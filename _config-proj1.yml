@@ -1,0 +1,40 @@
+source: .
+destination: ../out
+# A blank URL breaks the XML escape tag in sitemap
+url: https://inst.eecs.berkeley.edu/~cs194-26/fa14/upload/files/proj1/cs194-ft/
+#pygments: true
+lsi: true
+
+excerpt_seperator: "<!--more-->"
+
+timezone: America/Los_Angeles
+
+permalink: pretty
+
+title: Michael Ball CS184
+author: Michael Ball
+version: 2.0
+copy-start: 2011
+copy-end: 2014
+# FIXME
+description: "A (mostly) daily photo blog with a bit about Apple, Macs, college life, UC Berkeley, and anything I feel like sharing."
+
+keywords: [iPhone, apps, photography, Quad Solver, Michael Ball, college, Cal,
+    Berkeley, computer science, programming, cycomachead, photo, apple, iOS,
+    macs]
+
+
+aboutme: michaelball
+appstore: michaelball
+facebook: quadsolver
+flickr: cycomachead
+github: cycomachead
+googleplus: 109987956810230671866
+instagram: cycomachead
+linkedin: pub/michael-ball/43/18a/81/
+tumblr: cycomachead
+twitter: cycomachead
+twitterposts: michaelbphotos
+youtube: cycomachead
+
+
