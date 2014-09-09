@@ -3,7 +3,8 @@ layout: default
 title:  CS194-26 Michael Ball
 ---
 
-# Welcome! Michael Ball in CS184
+# Welcome!
+# Michael Ball's CS194-26 Site
 
 
 _Full disclaimer:_

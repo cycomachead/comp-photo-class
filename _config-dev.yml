@@ -1,7 +1,7 @@
 source: .
 destination: ../out
 # A blank URL breaks the XML escape tag in sitemap
-url: http://cycomachead.github.io/comp-photo-class/
+url: http://localhost:4000/
 #pygments: true
 lsi: true
 
