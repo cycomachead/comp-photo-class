@@ -4,7 +4,6 @@ destination: ../out
 url: https://inst.eecs.berkeley.edu/~cs194-26/fa14/upload/files/proj1/cs194-ft/
 #pygments: true
 lsi: true
-markdown: rdiscount
 
 excerpt_seperator: "<!--more-->"
 

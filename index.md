@@ -13,8 +13,6 @@ The best way to email me, is to use the address: ball@berkeley.edu.
 <br />
 (There's no point in obfuscating them as it's super easy to circumvent.)
 
-Anyway, if you're so inclined, you can see an older image of me on my [about page](about). Or you can use this more recent image and figure out who Michael is in the photo! ![DailyCal Photo](images/michael-michael.jpg)
-
 P.S. Apologizes that I have yet to (properly) compress the header photo.
 
 ## Assignments
