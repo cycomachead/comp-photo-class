@@ -1,0 +1,29 @@
+<table id="pagination">
+    <tr>
+        <td class="left">
+            <li class="left">
+                {% if paginator.next_page %}
+                <a href="{{ paginator.next_page_path }}">Older Posts</a>
+            {% else %}
+                No Older Posts
+            {% endif %}
+            </li>
+        </td>
+        <td class="center">
+            Page: {{ paginator.page }} of {{ paginator.total_pages }}
+        </td>
+        <td class="right">
+            {% if paginator.previous_page %}
+                <li class="right">
+                    {% if paginator.previous_page == 1 %}
+                    <a href="/">Newer Posts</a>
+                    {% else %}
+                    <a href="{{ paginator.previous_page_path }}">Newer Posts</a>
+                    {% endif %}
+                </li>
+            {% else %}
+                <li class="right">No Newer Posts</li>
+            {% endif %}
+        </td>
+    </tr>   
+</table>

@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="article {{ page.category }}">
+    <h4>
+        <a href="{{ page.url }}">{{ page.title }}</a>
+    </h4>
+
+    {{ content }} <!-- Post Body -->
+
+    {% include endmatter.html %}
+
+</div>
+
+{% include next_prev.html %}
+
