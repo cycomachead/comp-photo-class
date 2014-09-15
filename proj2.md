@@ -23,7 +23,7 @@ Our camera obscura was manufactured from a 5"x11"x14" cardboard box. We used bla
 
 We chose to capture photographs of two classic Berkeley campus landmarks: the Sather Tower and the Doe Library. We successfully captured the scenes with the 5mm and the 1mm aperture. To capture the shots, we set ISO to its highest setting of 1600 and varied the shutter speed to obtain optimal lighting. The shutter speeds that were chosen for each aperture and scene are listed below the photos. The 1mm aperture produced a more focused image, but optimizing the lighting was more difficult. We also experimented with Photoshop-free smart object editing technology by pasting in a marker-shaped blimp in the sky above the Campanile.
 
-For the smallest aperture of 0.1 mm, we had difficulty getting an image. The camera we used initially could not be set to a shutter speed above 15 seconds. At that setting, the image was poorly lit and had a blue tint, likely to the light diffusion from the acrylic aperture tile. The thickness of the tile may have contributed to our difficulties as well. We tried using a more advanced, manual camera, but it had a much wider lens and could not fit in our box. We experimented with a tripod and novel sweater-based light shield technology, but still did not get a good result.
+For the smallest aperture of 0.1 mm, we had difficulty getting an image. The camera we used initially could not be set to a shutter speed above 15 seconds. At that setting, the image was poorly lit and had a blue tint, likely to the light diffusion from the acrylic aperture tile. The thickness of the tile may have contributed to our difficulties as well. We tried using a more advanced, manual camera, but it had a much wider lens and could not fit in our box. We experimented with a tripod and novel sweater-based light shield technology (see Setup), but still did not get a good result.
 
 
 ## Images
@@ -54,6 +54,9 @@ For the smallest aperture of 0.1 mm, we had difficulty getting an image. The cam
 * Shutter speed = 10 seconds
 [![library_1mm](library_1mm.jpg)](library_1mm.jpg)
 
+## Setup
+
+[![setup](setup.jpg)](setup.jpg)
 
 ## Bells and Whistles
 
