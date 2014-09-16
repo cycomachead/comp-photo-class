@@ -28,28 +28,31 @@ For the smallest aperture of 0.1 mm, we had difficulty getting an image. The cam
 
 ## Images
 
+Campanile
 * Aperture = 5 mm
 * Shutter speed = 0.6 seconds
 [![campanile_5mm](campanile_5mm.jpg)](campanile_5mm.jpg)
 
-
+Campanile
 * Aperture = 1 mm
 * Shutter speed = 4 seconds
 [![campanile_1mm](campanile_1mm.jpg)](campanile_1mm.jpg)
 
-
+Campanile
 * Aperture = 0.1 mm
 * Shutter speed = 15 seconds
 [![campanile_0.1mm](campanile_0.1mm.jpg)](campanile_0.1mm.jpg)
 
+Campanile with flyover sharpie-shaped blimp
 * Manual smart object insertion technology
 [![campanile_sharpie](campanile_sharpie.jpg)](campanile_sharpie.jpg)
 
+Doe Library
 * Aperture = 5 mm
 * Shutter speed = 1 second
 [![library_5mm](library_5mm.jpg)](library_5mm.jpg)
 
-
+Doe Library
 * Aperture = 1 mm
 * Shutter speed = 10 seconds
 [![library_1mm](library_1mm.jpg)](library_1mm.jpg)
@@ -101,6 +104,20 @@ We created a camera obscura in a room by taping a "blackout" curtain over a wind
 [![room_curtain](room_curtain.jpg)](room_curtain.jpg)
 
 [![room_screen](room_screen.jpg)](room_screen.jpg)
+
+### Painting with light
+We painted with light using both a digital camera and our camera obscura. Here are the results.
+
+#### With the regular camera
+
+
+#### With camera obscura
+
+Smiley face
+[![smiley](smiley.jpg)](smiley.jpg)
+
+Smirking smiley face
+[![smiley_smirk](smiley_smirk.jpg)](smiley_smirk.jpg)
 
 ### Stereo Cam
 
