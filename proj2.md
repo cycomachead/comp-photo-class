@@ -12,7 +12,7 @@ img {
 }
 </style> 
 
-# Project 1
+# Project 2
 
 ## Building a Pinhole Camera
 
@@ -29,67 +29,94 @@ For the smallest aperture of 0.1 mm, we had difficulty getting an image. The cam
 ## Images
 
 Campanile
+
 * Aperture = 5 mm
+
 * Shutter speed = 0.6 seconds
+
 [![campanile_5mm](campanile_5mm.jpg)](campanile_5mm.jpg)
 
 Campanile
+
 * Aperture = 1 mm
+
 * Shutter speed = 4 seconds
+
 [![campanile_1mm](campanile_1mm.jpg)](campanile_1mm.jpg)
 
 Campanile
+
 * Aperture = 0.1 mm
+
 * Shutter speed = 15 seconds
+
 [![campanile_0.1mm](campanile_0.1mm.jpg)](campanile_0.1mm.jpg)
 
 Campanile with flyover sharpie-shaped blimp
+
 * Manual smart object insertion technology
+
 [![campanile_sharpie](campanile_sharpie.jpg)](campanile_sharpie.jpg)
 
 Doe Library
+
 * Aperture = 5 mm
+
 * Shutter speed = 1 second
+
 [![library_5mm](library_5mm.jpg)](library_5mm.jpg)
 
 Doe Library
+
 * Aperture = 1 mm
+
 * Shutter speed = 10 seconds
+
 [![library_1mm](library_1mm.jpg)](library_1mm.jpg)
 
 ### Additional Images
 All additional images were taken with aperture of 1 mm, since that gave us the best focus. We took them later in the day, so we used the shutter speed of 15 seconds, but they were still slightly dark.
 
 Roof of Soda Hall walkway
+
 [![soda_roof](soda_roof.jpg)](soda_roof.jpg)
 
 Palm tree
+
 [![palm_tree](palm_tree.jpg)](palm_tree.jpg)
 
 "Macro mode": flowers in grass
+
 [![macro](macro.jpg)](macro.jpg)
 
 Autumn tree
+
 [![tree](tree.jpg)](tree.jpg)
 
 Selfie in the courtyard of Sutardja Dai Hall
+
 [![selfie_1mm](selfie_1mm.jpg)](selfie_1mm.jpg)
 
 ## Setup
 
 [![setup](setup.jpg)](setup.jpg)
+
 [![box](box.jpg)](box.jpg)
 
 For our macro photography, we set our box in a planter.
+
 [![macro-cam](macro-cam.jpg)](macro-cam.jpg)
 
 We lasercut our apertures.
+
 [![lasers](lasers.jpg)](lasers.jpg)
 
 Two sets, in fact.
+
 [![aperturess](apertures.jpg)](apertures.jpg)
 
 Sometimes it became complicated to use the larger DSLR to make photos.
+
 [![balance-box](balance-box.jpg)](balance-box.jpg)
 
 ## Bells and Whistles
@@ -99,6 +126,7 @@ Sometimes it became complicated to use the larger DSLR to make photos.
 We created a camera obscura in a room by taping a "blackout" curtain over a window and cutting a small hole in the middle of it. All doors had to be covered and taped as well. A sheet was hung on the wall opposite the window to capture the view, which was then photographed. The resulting image and the pictures of the setup are below.
 
 * Shutter speed = 3.2 seconds
+
 [![room_photo](room_photo.jpg)](room_photo.jpg)
 
 [![room_curtain](room_curtain.jpg)](room_curtain.jpg)
@@ -114,9 +142,11 @@ We painted with light using both a digital camera and our camera obscura. Here a
 #### With camera obscura
 
 Smiley face
+
 [![smiley](smiley.jpg)](smiley.jpg)
 
 Smirking smiley face
+
 [![smiley_smirk](smiley_smirk.jpg)](smiley_smirk.jpg)
 
 ### Stereo Cam
