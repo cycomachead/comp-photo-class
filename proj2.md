@@ -54,6 +54,24 @@ For the smallest aperture of 0.1 mm, we had difficulty getting an image. The cam
 * Shutter speed = 10 seconds
 [![library_1mm](library_1mm.jpg)](library_1mm.jpg)
 
+### Additional Images
+All additional images were taken with aperture of 1 mm, since that gave us the best focus. We took them later in the day, so we used the shutter speed of 15 seconds, but they were still slightly dark.
+
+Roof of Soda Hall walkway
+[![soda_roof](soda_roof.jpg)](soda_roof.jpg)
+
+Palm tree
+[![palm_tree](palm_tree.jpg)](palm_tree.jpg)
+
+"Macro mode": flowers in grass
+[![macro](macro.jpg)](macro.jpg)
+
+Autumn tree
+[![tree](tree.jpg)](tree.jpg)
+
+Selfie in the courtyard of Sutardja Dai Hall
+[![selfie_1mm](selfie_1mm.jpg)](selfie_1mm.jpg)
+
 ## Setup
 
 [![setup](setup.jpg)](setup.jpg)
