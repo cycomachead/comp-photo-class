@@ -75,6 +75,19 @@ Selfie in the courtyard of Sutardja Dai Hall
 ## Setup
 
 [![setup](setup.jpg)](setup.jpg)
+[![box](box.jpg)](box.jpg)
+
+For our macro photography, we set our box in a planter.
+[![macro-cam](macro-cam.jpg)](macro-cam.jpg)
+
+We lasercut our apertures.
+[![lasers](lasers.jpg)](lasers.jpg)
+
+Two sets, in fact.
+[![aperturess](apertures.jpg)](apertures.jpg)
+
+Sometimes it became complicated to use the larger DSLR to make photos.
+[![balance-box](balance-box.jpg)](balance-box.jpg)
 
 ## Bells and Whistles
 
@@ -88,3 +101,11 @@ We created a camera obscura in a room by taping a "blackout" curtain over a wind
 [![room_curtain](room_curtain.jpg)](room_curtain.jpg)
 
 [![room_screen](room_screen.jpg)](room_screen.jpg)
+
+### Stereo Cam
+
+We added a second pinhole and some snazzy red and blue filters to make a stereo cam.  And what is a stereo image good for without the glasses to view it?
+
+[![glasses](glasses.jpg)](glasses.jpg)
+
+[![glasses-alyosha](glasses-alyosha.jpg)](glasses-alyosha.jpg)
