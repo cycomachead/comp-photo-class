@@ -14,6 +14,12 @@ img {
 
 # Project 2
 
+## Project Members
+
+* Valkyrie Savage 
+* Natalia Bilenko
+* Michael Ball (cs194-ft)
+
 ## Building a Pinhole Camera
 
 [![selfie_5mm](selfie_5mm.jpg)](selfie_5mm.jpg)
@@ -137,7 +143,25 @@ We created a camera obscura in a room by taping a "blackout" curtain over a wind
 We painted with light using both a digital camera and our camera obscura. Here are the results.
 
 #### With the regular camera
+For these photos we took a long exposure image (usually ~10 seconds) but used a flash burst at the start of the image.  
 
+Cats!
+[![some-text](MAB_9091.jpeg)](MAB_9091.jpeg)
+
+The Campanile...
+[![some-text](MAB_9092.jpeg)](MAB_9092.jpeg)
+
+Having Some Fun
+[![some-text](MAB_9093.jpeg)](MAB_9093.jpeg)
+
+Lassos!
+[![some-text](MAB_9094.jpeg)](MAB_9094.jpeg)
+
+Monkeys
+[![some-text](MAB_9096.jpeg)](MAB_9096.jpeg)
+For this photo, we used 1 long exposure, with 3 flash bursts, 1 after we changed each position.
+
+In the future, it would improve the photo to have taken larger flash bursts as with each successive shot to eliminate some bursting.
 
 #### With camera obscura
 
@@ -156,3 +180,11 @@ We added a second pinhole and some snazzy red and blue filters to make a stereo 
 [![glasses](glasses.jpg)](glasses.jpg)
 
 [![glasses-alyosha](glasses-alyosha.jpg)](glasses-alyosha.jpg)
+
+Unfortunately, the larger box camera we built for this had a lot of light leakage around the SLR lens. Here are some photos of the setup, and an example of things not working very well...
+
+You can see the blue and red highlights, but not much else appears in the photo.
+[![MAB 9109](MAB_9109.jpg)](MAB_9109.jpg)
+
+We used a system of rails on a tripod to hold everything together.
+[![IMG 5931](IMG_5931.JPG)](IMG_5931.JPG)
