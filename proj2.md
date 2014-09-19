@@ -17,6 +17,7 @@ img {
 ## Building a Pinhole Camera
 
 [![selfie_5mm](selfie_5mm.jpg)](selfie_5mm.jpg)
+
 Michael Ball, Natalia Bilenko, & Valkyrie Savage
 
 ## Camera Obscura
