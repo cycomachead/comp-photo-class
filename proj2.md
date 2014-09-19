@@ -24,6 +24,8 @@ img {
 
 [![selfie_5mm](selfie_5mm.jpg)](selfie_5mm.jpg)
 
+Valkyrie Savage, Natalia Bilenko, & Michael Ball
+
 ## Camera Obscura
 Our camera obscura was manufactured from a 5"x11"x14" cardboard box. We used black construction paper to cover all of the inside walls but one, and white printer paper to cover the remaining wall. We cut two holes in the wall opposite the white paper: one to mount the aperture tile, and one to insert the camera, a Canon Powershot G10. We positioned the camera upside down to capture the image right side up. To create the aperture tiles, we took advantage of the CITRIS Invention Lab equipment by laser cutting apertures with three diameters: 0.1 mm, 1 mm, and 5 mm in squares of blue acrylic. We used black duct tape to tape the construction paper and the outside of the box and white gaffer tape to attach the white screen paper.
 
