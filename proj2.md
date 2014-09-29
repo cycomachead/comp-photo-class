@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: group
 title: Project 2 -- Camera Obscura
 permalink: proj2/index.html
 ---
 
 <style type="text/css">
 img {
-    max-width: 250px;
+    max-width: 300px;
     border: 2px solid #CCC;
     padding: 2px;
 }
