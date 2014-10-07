@@ -1,7 +1,7 @@
 source: .
 destination: ../out
 # A blank URL breaks the XML escape tag in sitemap
-url: https://inst.eecs.berkeley.edu/~cs194-26/fa14/upload/files/proj2/cs194-ft/
+url: https://inst.eecs.berkeley.edu/~cs194-26/fa14/upload/files/proj4/cs194-ft/
 #pygments: true
 lsi: true
 
@@ -11,7 +11,7 @@ timezone: America/Los_Angeles
 
 permalink: pretty
 
-title: Michael Ball CS184
+title: Michael Ball CS194
 author: Michael Ball
 version: 2.0
 copy-start: 2011
