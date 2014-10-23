@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Project 4 -- Seam Carving
-permalink: proj4/index.html
+title: Project 5 -- Face Morphing
+permalink: proj5/index.html
 ---
 
 <style type="text/css">
@@ -10,91 +10,43 @@ img {
     border: 2px solid #CCC;
     padding: 2px;
 }
-</style> 
+</style>
 
-# Project 4
- 
-## Seam Carving
+# Project 5
+
+ ### Michael Ball
+ ### cs194-ft
+
+## Face Morphing
 
 Note: Click on all images to view the full size version!
 
 # Basic Algorithm
-The goal of seam carving is to produce an image of a new size which is visually very similar to the original. It differs from cropping in the sense that the all the elements of the the original image should be preserved in the new one, and from scaling because the results should look natural even when the scaling is non-uniform. (As you will see this is not always the case....)
 
-Basically, I followed the paper and implemented a straight forward version of seam carving using the gradient as a basic energy function. I then iterated backwards over the gradient to find the best seam and would remove that seam from an image. To remove multiple seams I simple iterate, removing a single seam at a time. This is a rather slow process, but hey, it works alright.
+My basic algorithm fallowed almost exactly the slides and assignment. I took a set of manually defined control pointed and then (for two images) I averaged those points and created a Delaunay triangulation. To warp an image I made an inverse warping from a weighted triangulation to the Delaunay triangulation.  
+I didn't directly create an affineTransformation but used the same technique within the main loop to iterate over the triangles. The tricky part for me was using `interp2` and separating by color channel.
 
-Finally, I only implemented removing of vertical seams, (that is columns of pixels). To remove horizontal seams, I transpose the image, remove seams, then transpose it back to the original state.
+Unfortunately I have a bug where somewhere along the line, my code stopped converting the bottom parts of the image. I'm not sure what went wrong...
+---
 
-All the images from this assignment, except for the first (below) are my own. They were taken at Berkeley or in San Francisco. 
+# Examples
 
-Here is an example of the Cabin image which I have shrunk by 150px.
 
-Original Cabin:
-[![cabin.jpg](cabin.jpg)](cabin.jpg)
+---
+# Music Video
+This is a video of all the CS10 TAs
 
-Short Cabin:
-[![short-cabin.jpg](short-cabin.jpg)](short-cabin.jpg)
+<iframe width="560" height="315" src="//bit.ly/1wuj8GU" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="YouTube video player" type="text/html"
+width="640" height="390" src="//bit.ly/mballcs10tamoph"
+frameborder="0" allowFullScreen></iframe>
+---
 
 
 ---
 
-# Some Successes
-
-Original Wheeler Hall:
-[![MG5277.jpg](MG5277.jpg)](MG5277.jpg)
-
-Shrinking by 20% achieved a decent result:
-[![shrink-by-20-horizMG5277.jpg](shrink-by-20-horizMG5277.jpg)](shrink-by-20-horizMG5277.jpg)
 
 ---
 
-Embarcadero Center:
-[![MG3561.jpg](MG3561.jpg)](MG3561.jpg)
-
-Shrunk to 50% width is surprisingly OK!:
-[![shrink-by-25-vertMG3561.jpg](shrink-by-25-vertMG3561.jpg)](shrink-by-25-vertMG3561.jpg)
-
----
-
-Wheeler Hall:
-[![MG5277.jpg](MG5277.jpg)](MG5277.jpg)
-
-Shrinking by 20% actually turns out OK, except for one corner:
-[![shrink-by-20-horizMG5277.jpg](shrink-by-20-horizMG5277.jpg)](shrink-by-20-horizMG5277.jpg)
-
----
-
-Bay Bridge:
-[![MAB3337.jpg](MAB3337.jpg)](MAB3337.jpg)
-
-33% Shrink looks fine!:
-[![shrink-by-33-horizMAB3337.jpg](shrink-by-33-horizMAB3337.jpg)](shrink-by-33-horizMAB3337.jpg)
-
----
-
-Protester Original:
-[![MAB228.jpg](MAB228.jpg)](MAB228.jpg)
-
-33% Shrink:
-[![shrink-by-33-vertMAB228copy.jpg](shrink-by-33-vertMAB228copy.jpg)](shrink-by-33-vertMAB228copy.jpg)
-
----
-
-Hearst Mining Building:
-[![MG3934.jpg](MG3934.jpg)](MG3934.jpg)
-
-Large Vertical Carve works quite well! :
-[![shrink-by-33-horizMG3934.jpg](shrink-by-33-horizMG3934.jpg)](shrink-by-33-horizMG3934.jpg)
-
----
-
-# Some Failures
-
-
-Shrinking Wheeler Hall by 50% was a bad idea:
-[![shrink-by-50-horizMG5277.jpg](shrink-by-50-horizMG5277.jpg)](shrink-by-50-horizMG5277.jpg)
-
-Shrink the protester vertically fails:
-[![shrink-by-33-vertMAB228.jpg](shrink-by-33-vertMAB228.jpg)](shrink-by-33-vertMAB228.jpg)
- 
 ---

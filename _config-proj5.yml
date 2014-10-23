@@ -1,7 +1,7 @@
 source: .
 destination: ../out
 # A blank URL breaks the XML escape tag in sitemap
-url: https://inst.eecs.berkeley.edu/~cs194-26/fa14/upload/files/proj4/cs194-ft/
+url: https://inst.eecs.berkeley.edu/~cs194-26/fa14/upload/files/proj5/cs194-ft/
 #pygments: true
 lsi: true
 
