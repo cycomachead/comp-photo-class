@@ -25,4 +25,8 @@ You can find pages for all my assignments below.
 * [Project 2](proj2)
 * [Project 3](proj3)
 * [Project 4](proj4)
-
+* [Project 5](proj5)
+* [Project 6](proj6)
+* [Project 7a](proj7a)
+* [Project 7b](proj7b)
+* [Final Project](projFinal)
